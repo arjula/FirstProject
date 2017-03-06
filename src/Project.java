@@ -1,6 +1,6 @@
 
 public class Project {
     public static void main(String args[]) {
-        System.out.println("hello sruthi");
+        System.out.println("hello sukruthi");
     }
 }
